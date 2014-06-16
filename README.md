@@ -1,3 +1,9 @@
-AutoCommentInstagram is a simple app based on Instagram API. It allows commenting Instagram pictures with a prefilled text, making the operation faster.
+<h1>AutoCommentInstagram</h1>
 
-This app is very useful when you need to comment lots of pictures to grow the numbers of your Instagram followers.
+<p>
+AutoCommentInstagram is a simple app based on Instagram API. It allows commenting Instagram pictures with a prefilled text, making very fast the operation of letting the people know about your Instagram profile.
+
+If you want to grow your number of Instagram followers, let's try to comment and like users' picture and you will see a growing insterest in your profile. 
+
+The app AutoCommentInstagram speed up this process by letting you not to lose so much time writing a comment by hand.
+</p>
